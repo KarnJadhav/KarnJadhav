@@ -26,7 +26,7 @@
 - 🧠 Building **DeepFake**, a deepfake detection system (EfficientNetB3, ~200K images, 94%+ accuracy, EWC continual learning)
 - 💼 Full Stack Dev Intern @ **IIT Bombay EdTech Program** — built PrepBuddy, a gamified placement-prep platform
 - 💻 Frontend Dev Intern @ **DevMinds Software** — React/Next.js hospitality project
-- 🚀 Currently building a **Job Notification SaaS** (MERN + Redis + Razorpay + Telegram bot) for students
+- 🚀 Currently building a *PotholeNet : AI-powered road infrastructure intelligence platform using a fine-tuned YOLO11n model for pothole and road damage detection, integrated with a full-stack system for geospatial mapping, road risk analysis, and infrastructure monitoring.**
 - ☁️ AWS Academy Graduate — Cloud Architecting
 - ⚡ Fun fact: I ship full products end-to-end — from model training to deployment
 
