@@ -27,7 +27,7 @@
 - 💼 Full Stack Dev Intern @ **IIT Bombay EdTech Program** — built PrepBuddy, a gamified placement-prep platform
 - 💻 Frontend Dev Intern @ **DevMinds Software** — React/Next.js hospitality project
 - 🚀 Currently building a *PotholeNet : AI-powered road infrastructure intelligence platform using a fine-tuned YOLO11n model for pothole and road damage detection, integrated with a full-stack system for geospatial mapping, road risk analysis, and infrastructure monitoring.**
-<a href="https://tinyurl.com/2w2kzzsp"> Pothole Net Demo -> </a>
+## Pothole Net Demo : <a href="https://tinyurl.com/2w2kzzsp">https://tinyurl.com/2w2kzzsp</a>
 - ☁️ AWS Academy Graduate — Cloud Architecting
 - ⚡ Fun fact: I ship full products end-to-end — from model training to deployment
 
